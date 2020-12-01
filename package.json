@@ -1,0 +1,7 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "solutions to advent of code 2020",
+  "main": "index.js",
+  "license": "MIT"
+}
